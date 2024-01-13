@@ -1,0 +1,7 @@
+com\tyrien\quickstart\repositories\AuthorRepositoryIntegrationTest.class
+com\tyrien\quickstart\TestDataUtil.class
+com\tyrien\quickstart\controllers\BookControllerIntegrationTests.class
+com\tyrien\quickstart\repositories\BookRepositoryIntegrationTest.class
+com\tyrien\quickstart\BooksApiApplicationTests.class
+com\tyrien\quickstart\JacksonTests.class
+com\tyrien\quickstart\controllers\AuthorControllerIntegrationTests.class
