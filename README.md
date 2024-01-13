@@ -156,11 +156,8 @@ The following guides illustrate how to use some features concretely:
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Acknowledgements
-
-Thanks to all contributors and users for your support. Your feedback is greatly appreciated.
-
 Please note that this README is a work in progress. If you have any ideas on how to improve it, please feel free to
-suggest changes. Thank you for contributing to this project!
+suggest changes.
 
 **Notes:** When we use Spring JPA database setup via Hibernate, there is no need for the unit test files (
 BookDaoImplTest &
